@@ -34,7 +34,7 @@ Built in Python with a Tableau dashboard for business insights.
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Executive Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ### Risk Segmentation
 ![Risk Segmentation](Risk Segmentation.png)
