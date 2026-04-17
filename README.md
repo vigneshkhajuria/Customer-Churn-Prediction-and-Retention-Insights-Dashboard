@@ -30,3 +30,14 @@ Built in Python with a Tableau dashboard for business insights.
 - eda_charts.png — EDA visualisations
 - confusion_matrices.png — model evaluation
 - roc_curves.png — ROC curve comparison
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive Overview.png)
+
+### Risk Segmentation
+![Risk Segmentation](Risk Segmentation.png)
+
+### Business Drivers
+![Business Drivers](business_drivers.png)
