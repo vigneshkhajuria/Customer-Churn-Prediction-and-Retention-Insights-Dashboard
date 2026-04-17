@@ -1,0 +1,24 @@
+Feature,Importance
+Age,0.2155
+NumOfProducts,0.1491
+AgeBand_45-59,0.0985
+Balance,0.0685
+MultiProductFlag,0.0626
+CreditScore,0.0477
+EstimatedSalary,0.0464
+Geography_Germany,0.0421
+AgeBand_30-44,0.041
+InactiveFlag,0.0372
+IsActiveMember,0.0325
+Tenure,0.0293
+AgeBand_Under 30,0.0293
+BalanceSegment_Zero,0.0194
+Gender_Female,0.0142
+Geography_France,0.0139
+Gender_Male,0.0127
+AgeBand_60+,0.0097
+Geography_Spain,0.0082
+BalanceSegment_Medium,0.0081
+HasCrCard,0.0077
+BalanceSegment_High,0.0059
+BalanceSegment_Low,0.0006
